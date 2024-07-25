@@ -1,6 +1,6 @@
 const reactDescriptions = ['Fundamental', 'Crucial', 'Core'];
 
-function genRandomInt(max) {
+function genRandomInt(max) {gi
   return Math.floor(Math.random() * ( max + 1));
 }
 
